@@ -20,5 +20,5 @@ the code is organized by dividing each functionality to different functions "cre
 to run the code:
 
   - step 1: download the todo.sh file (must be using linux).
-  - step 2: execute the commande "chmode u+x todo.sh" or "chmode 700 todo.sh" to give the file owner 'u' the execut 'x'.
+  - step 2: execute the commande "chmode u+x todo.sh" or "chmode 700 todo.sh" to give the file owner 'u' the execut proprity 'x'.
   - step 3: ./todo.sh to execute the script.
