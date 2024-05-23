@@ -30,7 +30,7 @@ create_task() {
     local description="$2"
     local location="$3"
     local due_date="$4"
-    local id=$(uuidgen)  # Generate a unique identifier
+    local id=$(uuidgen) 
 
     
     if ! date -d "$due_date" &>/dev/null; then
